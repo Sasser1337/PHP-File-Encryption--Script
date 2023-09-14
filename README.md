@@ -27,6 +27,19 @@
 
 - After you upload it to the site, all files on the site will become example.txt example.txt.Sasser1337
 
+- You need to change the message for the file 
+
+```bash
+1bdc0ae____README____.txt
+```
+
+- Change the message in the section code
+
+```python
+file_put_contents("1bdc0ae____README____.txt", "Congratulations, all files on your site have been encrypted by Sasser1337");
+```
+- It is possible that this code can create a Ransomware Attack :smile:
+
 - See image below
 
 <img alt="itc" src="assets/arg.jpg"> </img>
