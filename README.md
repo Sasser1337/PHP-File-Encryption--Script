@@ -72,4 +72,3 @@ file_put_contents("1bdc0ae____README____.txt", "Congratulations, all files on yo
 
 ## File Naming
 The name used to save the encrypted files is the original file name with the `.Sasser1337` extension appended to it. So, if the original file is named `example.txt`, the encrypted file will be saved as `example.txt.Sasser1337`.
-
